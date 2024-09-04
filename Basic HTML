@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Webpage</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Good Morning</h1>
+        <h2>Good Morning</h2>
+        <h3>Good Morning</h3>
+        <h4>Good Morning</h4>
+        <h5>Good Morning</h5>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ipsum sed vitae, nemo laboriosam soluta aspernatur tempora unde nostrum recusandae nulla fugiat accusamus repellat! Error ullam tempore blanditiis debitis commodi.</p>
+        <button><a href="https://codegnan.com">Click Me</a></button>
+        <img src="./images/codegnan.png" alt="Codegnan-Logo">
+        <hr>
+        
+    </div>
+</body>
+</html>
